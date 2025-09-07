@@ -3,6 +3,8 @@ This project implements a simple Markov chain–based text generator in Python. 
 
 ## How to run this project:
 
-'''bash
+```bash
+
 python Markov_chain.py
-'''
+
+```
